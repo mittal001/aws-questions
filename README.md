@@ -4,10 +4,10 @@
 
 What are the DHCP option attributes used to assign private DNS servers to your VPC?
 
-- 1. dns resolution and domain name
-- 2. hostnames and internet domain
-- 3. domain servers and domain name
-- 4. domain-name-servers and domain-name
+- A. dns resolution and domain name
+- B. hostnames and internet domain
+- C. domain servers and domain name
+- D. domain-name-servers and domain-name
 
 <details>
   <summary>Answer</summary>
@@ -19,48 +19,45 @@ What are the DHCP option attributes used to assign private DNS servers to your V
 ---
 
 
-###### 2. What are two features of CloudWatch operation?
+#### 2. 
 
-- 1. CloudWatch does not support custom metrics
-- 2. CloudWatch permissions are granted per feature and not AWS resource
-- 3. collect and monitor operating system and application generated log files
-- 4. AWS services automatically create logs for CloudWatch
-- 5. CloudTrail generates logs automatically when AWS account is activated
+What are two features of CloudWatch operation?
 
-<details><summary><b>Answer</b></summary>
-<p>
+- A. CloudWatch does not support custom metrics
+- B. CloudWatch permissions are granted per feature and not AWS resource
+- C. collect and monitor operating system and application generated log files
+- D. AWS services automatically create logs for CloudWatch
+- E. CloudTrail generates logs automatically when AWS account is activated
 
-#### Answer (B,C)
+<details>
+  <summary>Answer</summary>
+  [B, C]
+  <br />
+  Knowledge Area: Monitoring Services
+</details>
 
-Knowledge Area: Monitoring Services
+---
 
-</p>
+#### 3. 
+
+You have an application that collects monitoring data from 10,000 sensors (IoT) deployed in the USA. The datapoints are comprised of video events for home security and environment status alerts. The application will be deployed to AWS with EC2 instances as data collectors. What AWS storage service is preferred for storing video files from sensors?
+
+- A. RedShift
+- B. RDS
+- C. S3
+- D. DynamoDB
+
+<details>
+  <summary>Answer</summary>
+  C.
+  <br />
+  Knowledge Area: Storage Services
 </details>
 
 ---
 
 
-###### 3. You have an application that collects monitoring data from 10,000 sensors (IoT) deployed in the USA. The datapoints are comprised of video events for home security and environment status alerts. The application will be deployed to AWS with EC2 instances as data collectors. What AWS storage service is preferred for storing video files from sensors?
-
-- 1. RedShift
-- 2. RDS
-- 3. S3
-- 4. DynamoDB
-
-<details><summary><b>Answer</b></summary>
-<p>
-
-#### Answer (C)
-
-Knowledge Area: Storage Services
-
-</p>
-</details>
-
----
-
-
-###### 4. What storage type enable permanent attachment of volumes to EC2 instances?
+#### 4. What storage type enable permanent attachment of volumes to EC2 instances?
 
 - 1. S3
 - 2. RDS
