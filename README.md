@@ -1,35 +1,19 @@
-<div align="center">
-  <img height="128" src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Solutions-Architect_Associate_512x512.d82aee07920970350c427c8d0542bc239180a486.png"> 
-  <h1>AWS Certified Solutions Architect Associate Practice Questions</h1>
-
-<span>This is a list of AWS Certified Solutions Architect Associate questions and their answers ✨
 
 
-I have also added a lot of good practice tests at the following Udemy course [AWS Certified Solutions Architect Associate Practice Tests](https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-tests-latest/?referralCode=A7EE53FF637EB9125780).
+#### 1. 
 
-From basic to advanced, test how well you know AWS, refresh your knowledge a bit, or prepare for your AWS Certified Solutions Architect Associate exam! </span>
-
-Feel free to reach out to me! 👨‍💻 <br />
-<a href="https://www.twitter.com/anuj_bansal_">Twitter</a> || <a href="https://www.linkedin.com/in/bansalanuj96">LinkedIn</a> || <a href="https://www.ahhda.github.io">Blog</a>
-</div>
-
----
-
-###### 1. What are the DHCP option attributes used to assign private DNS servers to your VPC?
+What are the DHCP option attributes used to assign private DNS servers to your VPC?
 
 - 1. dns resolution and domain name
 - 2. hostnames and internet domain
 - 3. domain servers and domain name
 - 4. domain-name-servers and domain-name
 
-<details><summary><b>Answer</b></summary>
-<p>
-
-#### Answer (D)
-
-Knowledge Area: Virtual Private Cloud (VPC)
-
-</p>
+<details>
+  <summary>Answer</summary>
+  D.
+  <br />
+  Knowledge Area: Virtual Private Cloud (VPC)
 </details>
 
 ---
