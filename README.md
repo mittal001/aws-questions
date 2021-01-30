@@ -4,10 +4,10 @@
 
 What are the DHCP option attributes used to assign private DNS servers to your VPC?
 
-- A. dns resolution and domain name
-- B. hostnames and internet domain
-- C. domain servers and domain name
-- D. domain-name-servers and domain-name
+- [ ] A. dns resolution and domain name
+- [ ] B. hostnames and internet domain
+- [ ] C. domain servers and domain name
+- [ ] D. domain-name-servers and domain-name
 
 <details>
   <summary>Answer</summary>
@@ -23,11 +23,11 @@ What are the DHCP option attributes used to assign private DNS servers to your V
 
 What are two features of CloudWatch operation?
 
-- A. CloudWatch does not support custom metrics
-- B. CloudWatch permissions are granted per feature and not AWS resource
-- C. collect and monitor operating system and application generated log files
-- D. AWS services automatically create logs for CloudWatch
-- E. CloudTrail generates logs automatically when AWS account is activated
+- [ ] A. CloudWatch does not support custom metrics
+- [ ] B. CloudWatch permissions are granted per feature and not AWS resource
+- [ ] C. collect and monitor operating system and application generated log files
+- [ ] D. AWS services automatically create logs for CloudWatch
+- [ ] E. CloudTrail generates logs automatically when AWS account is activated
 
 <details>
   <summary>Answer</summary>
@@ -42,10 +42,10 @@ What are two features of CloudWatch operation?
 
 You have an application that collects monitoring data from 10,000 sensors (IoT) deployed in the USA. The datapoints are comprised of video events for home security and environment status alerts. The application will be deployed to AWS with EC2 instances as data collectors. What AWS storage service is preferred for storing video files from sensors?
 
-- A. RedShift
-- B. RDS
-- C. S3
-- D. DynamoDB
+- [ ] A. RedShift
+- [ ] B. RDS
+- [ ] C. S3
+- [ ] D. DynamoDB
 
 <details>
   <summary>Answer</summary>
