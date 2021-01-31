@@ -1,5 +1,3 @@
-
-
 ###### 1. 
 
 What are the DHCP option attributes used to assign private DNS servers to your VPC?
@@ -11,7 +9,7 @@ What are the DHCP option attributes used to assign private DNS servers to your V
 
 <details  hid="3ddd8208-c7ec-49ce-8fc2-0b93639ac1b2">
   <summary>Answer</summary>
-  (D)
+  D
   <br />
   Knowledge Area: Virtual Private Cloud (VPC)
 </details>
@@ -31,7 +29,7 @@ What are two features of CloudWatch operation?
 
 <details>
   <summary>Answer</summary>
-  (B, C)
+  B, C
   <br />
   Knowledge Area: Monitoring Services
 </details>
@@ -49,7 +47,7 @@ You have an application that collects monitoring data from 10,000 sensors (IoT) 
 
 <details>
   <summary>Answer</summary>
-  (C)
+  C
   <br />
   Knowledge Area: Storage Services
 </details>
@@ -69,7 +67,7 @@ What storage type enable permanent attachment of volumes to EC2 instances?
 
 <details>
   <summary>Answer</summary>
-  (D)
+  D
   <br />
   Knowledge Area: EC2 Compute
 </details>
@@ -88,7 +86,7 @@ What are two advantages of selecting default tenancy option for your VPC when cr
 
 <details>
   <summary>Answer</summary>
-  (B,C)
+  B,C
   <br />
   Knowledge Area: Virtual Private Cloud (VPC)
 </details>
@@ -108,7 +106,7 @@ What two statements correctly describe Amazon virtual private gateway?
 
 <details>
   <summary>Answer</summary>
-  (A,C)
+  A,C
   <br />
   Knowledge Area: Virtual Private Cloud (VPC)
 </details>
@@ -129,7 +127,7 @@ What are two features that correctly describe Availability Zone (AZ) architectur
 
 <details>
   <summary>Answer</summary>
-  (B,C)
+  B,C
   <br />
   Knowledge Area: Fault Tolerant Systems
 </details>
@@ -149,7 +147,7 @@ What AWS services encrypts data at rest by default? (Select two)
 
 <details>
   <summary>Answer</summary>
-  (B,D)
+  B,D
   <br />
   Knowledge Area: Storage Services
 </details>
@@ -169,7 +167,7 @@ What two attributes are only associated with CloudFront private content?
 
 <details>
   <summary>Answer</summary>
-  (B,D)
+  B,D
   <br />
   Knowledge Area: Deployment
 </details>
@@ -188,7 +186,7 @@ What two statements correctly describe how to add or modify IAM roles to a runni
 
 <details>
   <summary>Answer</summary>
-  (A,B)
+  A,B
   <br />
   Knowledge Area: EC2 Compute
 </details>
@@ -208,7 +206,7 @@ What are the minimum components required to enable a web-based application with 
 
 <details>
   <summary>Answer</summary>
-  (A,D,E)
+  A,D,E
   <br />
   Knowledge Area: Virtual Private Cloud (VPC)
 </details>
@@ -228,7 +226,7 @@ What two statements accurately describe Amazon VPC architecture?
 
 <details>
   <summary>Answer</summary>
-  (C,D)
+  C,D
   <br />
   Knowledge Area: Virtual Private Cloud (VPC)
 </details>
@@ -247,7 +245,7 @@ What feature enables CloudWatch to manage capacity dynamically for EC2 instances
 
 <details>
   <summary>Answer</summary>
-  (B)
+  B
   <br /> 
   Knowledge Area: Monitoring Services
 </details>
@@ -267,7 +265,7 @@ What authentication method provides Federated Single Sign-On (SSO) for cloud app
 
 <details>
   <summary>Answer</summary>
-  (E)
+  E
   <br /> 
   Knowledge Area: Security Architecture
 </details>
@@ -288,7 +286,7 @@ What method detects when to replace an EC2 instance that is assigned to an Auto-
 
 <details>
   <summary>Answer</summary>
-  (A)
+  A
   <br /> 
   Knowledge Area: EC2 Compute
 </details>
@@ -308,7 +306,7 @@ What two resource tags are supported for an EC2 instance?
 
 <details>
   <summary>Answer</summary>
-  (A,E)
+  A,E
   <br />
   Knowledge Area: EC2 Compute
 </details>
@@ -327,7 +325,7 @@ How is a volume selected (identified) when making an EBS Snapshot?
 
 <details>
   <summary>Answer</summary>
-  (D)
+  D
   <br /> 
   Knowledge Area: Deployment
 </details>
@@ -347,7 +345,7 @@ What two features provide an encrypted (VPN) connection from VPC to an enterpris
 
 <details>
   <summary>Answer</summary>
-  (C,D)
+  C,D
   <br />
   Knowledge Area: Virtual Private Cloud (VPC)
 </details>
@@ -367,7 +365,7 @@ What are two advantages of cross-region replication of an S3 bucket?
 
 <details>
   <summary>Answer</summary>
-  (B,E)
+  B,E
   <br />
   Knowledge Area: Storage Services
 </details>
@@ -387,7 +385,7 @@ What consistency model is the default used by DynamoDB?
 
 <details>
   <summary>Answer</summary>
-  (B)
+  B
   <br /> 
   Knowledge Area: Database Services
 </details>
@@ -407,7 +405,7 @@ What features are required to prevent users from bypassing AWS CloudFront securi
 
 <details>
   <summary>Answer</summary>
-  (B,D,E)
+  B,D,E
   <br />
   Knowledge Area: Security Architecture
 </details>
@@ -427,7 +425,7 @@ What are the advantages of NAT gateway over NAT instance? (Select two)
 
 <details>
   <summary>Answer</summary>
-  (B,D)
+  B,D
   <br />
   Knowledge Area: Virtual Private Cloud (VPC)
 </details>
@@ -446,7 +444,7 @@ What two fault tolerant features does Amazon RDS support?
 
 <details>
   <summary>Answer</summary>
-  (A,B)
+  A,B
   <br />
   Knowledge Area: Database Services
 </details>
@@ -466,7 +464,7 @@ What two features describe an Application Load Balancer (ALB)?
 
 <details>
   <summary>Answer</summary>
-  (A,C)
+  A,C
   <br />
   Knowledge Area: Fault Tolerant Systems
 </details>
@@ -486,7 +484,7 @@ You have configured a security group to allow ICMP, SSH and RDP inbound and assi
 
 <details>
   <summary>Answer</summary>
-  (C)
+  C
   <br /> 
   Knowledge Area: Security Architecture
 </details>
@@ -505,7 +503,7 @@ You have been asked to setup a VPC endpoint connection between VPC and S3 bucket
 
 <details>
   <summary>Answer</summary>
-  (D)
+  D
   <br /> 
   Knowledge Area: Virtual Private Cloud (VPC)
 </details>
@@ -525,7 +523,7 @@ What three attributes are used to define a launch configuration template for an 
 
 <details>
   <summary>Answer</summary>
-  (A,D,E)
+  A,D,E
   <br />
   Knowledge Area: EC2 Compute
 </details>
@@ -545,7 +543,7 @@ You have enabled Amazon RDS database services in VPC1 for an application that ha
 
 <details>
   <summary>Answer</summary>
-  (D)
+  D
   <br /> 
   Knowledge Area: Virtual Private Cloud (VPC)
 </details>
@@ -564,7 +562,7 @@ What two methods are recommended by AWS for protecting EBS data at rest?
 
 <details>
   <summary>Answer</summary>
-  (B,C)
+  B,C
   <br />
   Knowledge Area: Fault Tolerant Systems
 </details>
@@ -583,7 +581,7 @@ What security problem is solved by using Cross-Origin Resource Sharing (CORS)?
 
 <details>
   <summary>Answer</summary>
-  (A)
+  A
   <br /> 
   Knowledge Area: Storage Services
 </details>
@@ -603,7 +601,7 @@ What two features are enabled with S3 services?
 
 <details>
   <summary>Answer</summary>
-  (D,E)
+  D,E
   <br />
   Knowledge Area: Storage Services
 </details>
@@ -623,7 +621,7 @@ What is the purpose of a local route within a VPC route table?
 
 <details>
   <summary>Answer</summary>
-  (C)
+  C
   <br /> 
   Knowledge Area: Virtual Private Cloud (VPC)
 </details>
@@ -642,7 +640,7 @@ What feature is supported when attaching or detaching an EBS volume from an EC2 
 
 <details>
   <summary>Answer</summary>
-  (D)
+  D
   <br />
   Knowledge Area: EC2 Compute
 </details>
@@ -662,7 +660,7 @@ What Amazon AWS service supports real-time processing of data stream from multip
 
 <details>
   <summary>Answer</summary>
-  (C)
+  C
   <br /> 
   Knowledge Area: Deployment
 </details>
@@ -681,7 +679,7 @@ What is the fastest and easiest method for migrating an on-premises VMware virtu
 
 <details>
   <summary>Answer</summary>
-  (B)
+  B
   <br /> 
   Knowledge Area: Deployment
 </details>
@@ -700,7 +698,7 @@ What class of EC2 instance type is recommended for database servers?
 
 <details>
   <summary>Answer</summary>
-  (A)
+  A
   <br /> 
   Knowledge Area: EC2 Compute
 </details>
@@ -720,7 +718,7 @@ What encryption support is available for tenants that are deploying AWS DynamoDB
 
 <details>
   <summary>Answer</summary>
-  (B)
+  B
   <br /> 
   Knowledge Area: Database Services
 </details>
@@ -740,7 +738,7 @@ What are two characteristics of an Amazon security group?
 
 <details>
   <summary>Answer</summary>
-  (A,C)
+  A,C
   <br />
   Knowledge Area: Virtual Private Cloud (VPC)
 </details>
@@ -759,7 +757,7 @@ How is Route 53 configured for Warm Standby fault tolerance? (Select two)
 
 <details>
   <summary>Answer</summary>
-  (A,C)
+  A,C
   <br />
   Knowledge Area: Fault Tolerant Systems
 </details>
@@ -779,7 +777,7 @@ What is the difference between Stream-based and AWS Services when enabling Lambd
 
 <details>
   <summary>Answer</summary>
-  (A)
+  A
   <br /> 
   Knowledge Area: Deployment
 </details>
