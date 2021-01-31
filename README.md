@@ -27,9 +27,9 @@ What are two features of CloudWatch operation?
 - [ ] D. AWS services automatically create logs for CloudWatch
 - [ ] E. CloudTrail generates logs automatically when AWS account is activated
 
-<details>
+<details hid="a5e27b1d-e135-4c63-835c-030d887dcfa3">
   <summary>Answer</summary>
-  B, C
+  B,C
   <br />
   Knowledge Area: Monitoring Services
 </details>
@@ -45,7 +45,7 @@ You have an application that collects monitoring data from 10,000 sensors (IoT) 
 - [ ] C. S3
 - [ ] D. DynamoDB
 
-<details>
+<details hid="7e26624d-4cc4-4d3b-b982-8687efd54865">
   <summary>Answer</summary>
   C
   <br />
@@ -65,7 +65,7 @@ What storage type enable permanent attachment of volumes to EC2 instances?
 - [ ] D. EBS
 - [ ] E. instance store
 
-<details>
+<details hid="3ee6138b-aa9c-4b03-b100-872cdac5f2b2">
   <summary>Answer</summary>
   D
   <br />
@@ -84,7 +84,7 @@ What are two advantages of selecting default tenancy option for your VPC when cr
 - [ ] C. tenant can launch instances within VPC as default or dedicated instances
 - [ ] D. instance launch is faster
 
-<details>
+<details hid="bb058529-56f8-48a3-ad45-f1647d7dc431">
   <summary>Answer</summary>
   B,C
   <br />
@@ -104,7 +104,7 @@ What two statements correctly describe Amazon virtual private gateway?
 - [ ] D. multiple virtual private gateways per VPC
 - [ ] E. single virtual private gateway per region
 
-<details>
+<details  hid="3024d969-f777-412e-938f-eddd2aed2419">
   <summary>Answer</summary>
   A,C
   <br />
@@ -123,9 +123,9 @@ What are two features that correctly describe Availability Zone (AZ) architectur
 - [ ] C. multiple AZ per region
 - [ ] D. interconnected with public WAN links
 - [ ] E. data auto-replicated between zones in different regions
-- [ ] 6. Direct Connect supports Layer 2 connectivity to region
+- [ ] F. Direct Connect supports Layer 2 connectivity to region
 
-<details>
+<details hid="a076e4d2-b23c-4ae5-a2bd-f98fd8754905">
   <summary>Answer</summary>
   B,C
   <br />
@@ -145,7 +145,7 @@ What AWS services encrypts data at rest by default? (Select two)
 - [ ] D. Glacier
 - [ ] E. RDS
 
-<details>
+<details hid="5e31dbdf-0b02-4513-9634-9d16c263b8d8">
   <summary>Answer</summary>
   B,D
   <br />
@@ -165,7 +165,7 @@ What two attributes are only associated with CloudFront private content?
 - [ ] D. signed URL
 - [ ] E. object
 
-<details>
+<details hid="226fdf2b-2ff0-4954-8981-3a832d540ca4">
   <summary>Answer</summary>
   B,D
   <br />
@@ -184,7 +184,7 @@ What two statements correctly describe how to add or modify IAM roles to a runni
 - [ ] C. attach an IAM role to the user account and relaunch the EC2 instance
 - [ ] D. add the EC2 instance to a group where the role is a member
 
-<details>
+<details hid="db1d56eb-fd27-426f-baff-666c3fcd59d3">
   <summary>Answer</summary>
   A,B
   <br />
@@ -204,7 +204,7 @@ What are the minimum components required to enable a web-based application with 
 - [ ] D. Assign database instances to private subnet and private IP addressing
 - [ ] E. Assign EIP and private IP addressing to web servers on public subnet
 
-<details>
+<details hid="f903dc0e-bded-4935-a8ff-4238111a598f">
   <summary>Answer</summary>
   A,D,E
   <br />
@@ -224,7 +224,7 @@ What two statements accurately describe Amazon VPC architecture?
 - [ ] D. VPC cannot span multiple regions
 - [ ] E. Flow logs are not supported within a VPC
 
-<details>
+<details hid="b24e5d81-540c-4e98-a81e-3712cb424e34">
   <summary>Answer</summary>
   C,D
   <br />
@@ -243,7 +243,7 @@ What feature enables CloudWatch to manage capacity dynamically for EC2 instances
 - [ ] C. Elastic Load Balancer
 - [ ] D. vertical scaling
 
-<details>
+<details hid="da2f9c94-d123-4dab-ac4e-873cf447689d">
   <summary>Answer</summary>
   B
   <br /> 
@@ -263,7 +263,7 @@ What authentication method provides Federated Single Sign-On (SSO) for cloud app
 - [ ] D. TACACS
 - [ ] E. SAML
 
-<details>
+<details hid="407492ba-48e9-426e-939e-9657424145b3">
   <summary>Answer</summary>
   E
   <br /> 
@@ -284,7 +284,7 @@ What method detects when to replace an EC2 instance that is assigned to an Auto-
 - [ ] E. dynamic path detection
 - [ ] 6. Auto-Scaling
 
-<details>
+<details hid="65eadd01-15b8-46d5-8dc7-44c426b77d83">
   <summary>Answer</summary>
   A
   <br /> 
@@ -304,7 +304,7 @@ What two resource tags are supported for an EC2 instance?
 - [ ] D. security group
 - [ ] E. Flow Log
 
-<details>
+<details hid="275033e0-0652-417d-8b45-6f672f2ceef1">
   <summary>Answer</summary>
   A,E
   <br />
@@ -323,7 +323,7 @@ How is a volume selected (identified) when making an EBS Snapshot?
 - [ ] C. tag
 - [ ] D. ARN
 
-<details>
+<details hid="96341c26-0a69-4782-b548-0c452be4fbb4">
   <summary>Answer</summary>
   D
   <br /> 
@@ -343,7 +343,7 @@ What two features provide an encrypted (VPN) connection from VPC to an enterpris
 - [ ] D. CSR 1000V router
 - [ ] E. NAT gateway
 
-<details>
+<details hid="92f06bfe-6ed9-4aec-bad7-e3f237acd67f">
   <summary>Answer</summary>
   C,D
   <br />
@@ -363,7 +363,7 @@ What are two advantages of cross-region replication of an S3 bucket?
 - [ ] D. Beanstalk support
 - [ ] E. minimize latency
 
-<details>
+<details hid="05a6284e-83b3-40df-b8ab-207d269241c4">
   <summary>Answer</summary>
   B,E
   <br />
@@ -383,7 +383,7 @@ What consistency model is the default used by DynamoDB?
 - [ ] D. casual consistency
 - [ ] E. sequential consistency
 
-<details>
+<details hid="d88da22c-a8ae-4514-bf51-cd5d7e036ee3">
   <summary>Answer</summary>
   B
   <br /> 
@@ -403,7 +403,7 @@ What features are required to prevent users from bypassing AWS CloudFront securi
 - [ ] D. signed cookies
 - [ ] E. origin access identity (OAI)
 
-<details>
+<details hid="305f8195-70a8-4c88-85fe-33d51393e7c9">
   <summary>Answer</summary>
   B,D,E
   <br />
@@ -423,7 +423,7 @@ What are the advantages of NAT gateway over NAT instance? (Select two)
 - [ ] D. NAT gateways is a managed service
 - [ ] E. NAT gateway is Linux-based
 
-<details>
+<details hid="829bbd60-3f20-43c4-99e8-bfef799e22d5">
   <summary>Answer</summary>
   B,D
   <br />
@@ -442,7 +442,7 @@ What two fault tolerant features does Amazon RDS support?
 - [ ] C. copy unencrypted read-replica only
 - [ ] D. copy read/write replica and snapshot
 
-<details>
+<details hid="fb4dad59-bfad-43ea-80d5-c6230cb6b2df">
   <summary>Answer</summary>
   A,B
   <br />
@@ -462,7 +462,7 @@ What two features describe an Application Load Balancer (ALB)?
 - [ ] D. backend server authentication
 - [ ] E. multi-region forwarding
 
-<details>
+<details hid="55fe1692-ead5-4ff2-9d31-f58a840b9038">
   <summary>Answer</summary>
   A,C
   <br />
@@ -482,7 +482,7 @@ You have configured a security group to allow ICMP, SSH and RDP inbound and assi
 - [ ] D. security group outbound rules
 - [ ] E. Bastion host required
 
-<details>
+<details hid="26e3b67b-ae69-4a81-b1d2-9dd82cb5f2e5">
   <summary>Answer</summary>
   C
   <br /> 
@@ -501,7 +501,7 @@ You have been asked to setup a VPC endpoint connection between VPC and S3 bucket
 - [ ] C. Elastic IP
 - [ ] D. private IP address
 
-<details>
+<details hid="2d8e01ed-59f3-4c14-a6b0-057b134126ba">
   <summary>Answer</summary>
   D
   <br /> 
@@ -521,7 +521,7 @@ What three attributes are used to define a launch configuration template for an 
 - [ ] D. security group
 - [ ] E. AMI
 
-<details>
+<details hid="57091322-569b-4b33-b776-920cefd062e9">
   <summary>Answer</summary>
   A,D,E
   <br />
@@ -541,7 +541,7 @@ You have enabled Amazon RDS database services in VPC1 for an application that ha
 - [ ] D. VPC peering
 - [ ] E. AWS Network Load Balancer
 
-<details>
+<details hid="6149cb1e-8e3d-46ee-8ba1-99efd2a095cc">
   <summary>Answer</summary>
   D
   <br /> 
@@ -560,7 +560,7 @@ What two methods are recommended by AWS for protecting EBS data at rest?
 - [ ] C. encryption
 - [ ] D. VPN
 
-<details>
+<details hid="5cb8d598-7c5e-40e9-af64-4aef4b84e5a0">
   <summary>Answer</summary>
   B,C
   <br />
@@ -579,7 +579,7 @@ What security problem is solved by using Cross-Origin Resource Sharing (CORS)?
 - [ ] C. provide security for third party objects within AWS
 - [ ] D. permits sharing objects between AWS services
 
-<details>
+<details hid="bcf16b02-69d2-4afd-bfa3-98a049e9cc87">
   <summary>Answer</summary>
   A
   <br /> 
@@ -599,7 +599,7 @@ What two features are enabled with S3 services?
 - [ ] D. store virtually unlimited amounts of data
 - [ ] E. bucket names are globally unique
 
-<details>
+<details hid="435bbeb9-5375-4ff6-93fa-85fbb55bd43c">
   <summary>Answer</summary>
   D,E
   <br />
@@ -619,7 +619,7 @@ What is the purpose of a local route within a VPC route table?
 - [ ] D. default route for communicating between private and public subnets
 - [ ] E. only installed in the main route table
 
-<details>
+<details hid="77fa9bce-eae7-4e01-8b02-fcbe221b4d03">
   <summary>Answer</summary>
   C
   <br /> 
@@ -638,7 +638,7 @@ What feature is supported when attaching or detaching an EBS volume from an EC2 
 - [ ] C. EBS volume can only be copied and attached to an EC2 instance that is cross-region
 - D. EBS volume can only be attached and detached to an EC2 instance in the same Availability Zone
 
-<details>
+<details hid="ad21c6bc-5399-462c-8d31-229afc59b569">
   <summary>Answer</summary>
   D
   <br />
@@ -658,7 +658,7 @@ What Amazon AWS service supports real-time processing of data stream from multip
 - [ ] D. SQS
 - E. RedShift
 
-<details>
+<details hid="b07bd7a6-1d35-48e1-b95e-ae65b420695c">
   <summary>Answer</summary>
   C
   <br /> 
@@ -677,7 +677,7 @@ What is the fastest and easiest method for migrating an on-premises VMware virtu
 - [ ] C. AWS Storage Gateway
 - [ ] D. EC2 Import/Export
 
-<details>
+<details hid="a1703768-7624-4b9e-8f73-14237d440dd2">
   <summary>Answer</summary>
   B
   <br /> 
@@ -696,7 +696,7 @@ What class of EC2 instance type is recommended for database servers?
 - [ ] C. storage optimized
 - [ ] D. general purpose optimized
 
-<details>
+<details hid="c0c57e2a-0bc8-414f-93fe-f6769a632c69">
   <summary>Answer</summary>
   A
   <br /> 
@@ -716,7 +716,7 @@ What encryption support is available for tenants that are deploying AWS DynamoDB
 - [ ] D. encryption not supported
 - [ ] E. block level encryption
 
-<details>
+<details hid="c24c79b6-5901-4e9c-a4c3-3eb7ac4af787">
   <summary>Answer</summary>
   B
   <br /> 
@@ -736,7 +736,7 @@ What are two characteristics of an Amazon security group?
 - [ ] D. subnet level packet filtering
 - [ ] E. inbound only
 
-<details>
+<details hid="b74b9d5e-fe90-4766-ae43-17cf64c817fa">
   <summary>Answer</summary>
   A,C
   <br />
@@ -755,7 +755,7 @@ How is Route 53 configured for Warm Standby fault tolerance? (Select two)
 - [ ] C. failover records
 - [ ] D. Alias records
 
-<details>
+<details hid="8ebe0043-f223-4eb7-8a6f-9837fcc964dc">
   <summary>Answer</summary>
   A,C
   <br />
@@ -775,11 +775,9 @@ What is the difference between Stream-based and AWS Services when enabling Lambd
 - [ ] D. streams maintains event source mapping in notification
 - [ ] E. streams maintains event source mapping in API
 
-<details>
+<details hid="e37ea7a0-cb2f-48e9-b518-bbcc6fcd1487">
   <summary>Answer</summary>
   A
   <br /> 
   Knowledge Area: Deployment
 </details>
-
----
