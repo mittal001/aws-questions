@@ -11,7 +11,7 @@ What are the DHCP option attributes used to assign private DNS servers to your V
   <summary>Answer</summary>
   D
   <br />
-  Knowledge Area: Virtual Private Cloud (VPC)
+  KnowledgeArea: Virtual Private Cloud (VPC)
 </details>
 
 ---
