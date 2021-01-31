@@ -1,6 +1,6 @@
 
 
-#### 1. 
+###### 1. 
 
 What are the DHCP option attributes used to assign private DNS servers to your VPC?
 
@@ -19,7 +19,7 @@ What are the DHCP option attributes used to assign private DNS servers to your V
 ---
 
 
-#### 2. 
+###### 2. 
 
 What are two features of CloudWatch operation?
 
@@ -38,7 +38,7 @@ What are two features of CloudWatch operation?
 
 ---
 
-#### 3. 
+###### 3. 
 
 You have an application that collects monitoring data from 10,000 sensors (IoT) deployed in the USA. The datapoints are comprised of video events for home security and environment status alerts. The application will be deployed to AWS with EC2 instances as data collectors. What AWS storage service is preferred for storing video files from sensors?
 
@@ -57,13 +57,13 @@ You have an application that collects monitoring data from 10,000 sensors (IoT) 
 ---
 
 
-#### 4. What storage type enable permanent attachment of volumes to EC2 instances?
+###### 4. What storage type enable permanent attachment of volumes to EC2 instances?
 
-- 1. S3
-- 2. RDS
-- 3. TDS
-- 4. EBS
-- 5. instance store
+- [ ] A. S3
+- [ ] B. RDS
+- [ ] C. TDS
+- [ ] 4. EBS
+- [ ] 5. instance store
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -80,10 +80,10 @@ Knowledge Area: EC2 Compute
 
 ###### 5. What are two advantages of selecting default tenancy option for your VPC when creating it?
 
-- 1. performance and reliability
-- 2. some AWS services do not work with a dedicated tenancy VPC
-- 3. tenant can launch instances within VPC as default or dedicated instances
-- 4. instance launch is faster
+- [ ] A. performance and reliability
+- [ ] B. some AWS services do not work with a dedicated tenancy VPC
+- [ ] C. tenant can launch instances within VPC as default or dedicated instances
+- [ ] 4. instance launch is faster
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -100,11 +100,11 @@ Knowledge Area: Virtual Private Cloud (VPC)
 
 ###### 6. What two statements correctly describe Amazon virtual private gateway?
 
-- 1. assign to private subnets only
-- 2. assign to public subnets only
-- 3. single virtual private gateway per VPC
-- 4. multiple virtual private gateways per VPC
-- 5. single virtual private gateway per region
+- [ ] A. assign to private subnets only
+- [ ] B. assign to public subnets only
+- [ ] C. single virtual private gateway per VPC
+- [ ] 4. multiple virtual private gateways per VPC
+- [ ] 5. single virtual private gateway per region
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -121,12 +121,12 @@ Knowledge Area: Virtual Private Cloud (VPC)
 
 ###### 7. What are two features that correctly describe Availability Zone (AZ) architecture?
 
-- 1. multiple regions per AZ
-- 2. interconnected with private WAN links
-- 3. multiple AZ per region
-- 4. interconnected with public WAN links
-- 5. data auto-replicated between zones in different regions
-- 6. Direct Connect supports Layer 2 connectivity to region
+- [ ] A. multiple regions per AZ
+- [ ] B. interconnected with private WAN links
+- [ ] C. multiple AZ per region
+- [ ] 4. interconnected with public WAN links
+- [ ] 5. data auto-replicated between zones in different regions
+- [ ] 6. Direct Connect supports Layer 2 connectivity to region
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -143,11 +143,11 @@ Knowledge Area: Fault Tolerant Systems
 
 ###### 8. What AWS services encrypts data at rest by default? (Select two)
 
-- 1. S3
-- 2. AWS Storage Gateway
-- 3. EBS
-- 4. Glacier
-- 5. RDS
+- [ ] A. S3
+- [ ] B. AWS Storage Gateway
+- [ ] C. EBS
+- [ ] 4. Glacier
+- [ ] 5. RDS
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -164,11 +164,11 @@ Knowledge Area: Storage Services
 
 ###### 9. What two attributes are only associated with CloudFront private content?
 
-- 1. Amazon S3 URL
-- 2. signed cookies
-- 3. web distribution
-- 4. signed URL
-- 5. object
+- [ ] A. Amazon S3 URL
+- [ ] B. signed cookies
+- [ ] C. web distribution
+- [ ] 4. signed URL
+- [ ] 5. object
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -185,10 +185,10 @@ Knowledge Area: Deployment
 
 ###### 10. What two statements correctly describe how to add or modify IAM roles to a running EC2 instance?
 
-- 1. attach an IAM role to an existing EC2 instance from the EC2 console
-- 2. replace an IAM role attached to an existing EC2 instance from the EC2 console
-- 3. attach an IAM role to the user account and relaunch the EC2 instance
-- 4. add the EC2 instance to a group where the role is a member
+- [ ] A. attach an IAM role to an existing EC2 instance from the EC2 console
+- [ ] B. replace an IAM role attached to an existing EC2 instance from the EC2 console
+- [ ] C. attach an IAM role to the user account and relaunch the EC2 instance
+- [ ] 4. add the EC2 instance to a group where the role is a member
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -205,11 +205,11 @@ Knowledge Area: EC2 Compute
 
 ###### 11. What are the minimum components required to enable a web-based application with public web servers and a private database tier? (select three)
 
-- 1. Internet gateway
-- 2. Assign EIP addressing to database instances on private subnet
-- 3. Virtual private gateway
-- 4. Assign database instances to private subnet and private IP addressing
-- 5. Assign EIP and private IP addressing to web servers on public subnet
+- [ ] A. Internet gateway
+- [ ] B. Assign EIP addressing to database instances on private subnet
+- [ ] C. Virtual private gateway
+- [ ] 4. Assign database instances to private subnet and private IP addressing
+- [ ] 5. Assign EIP and private IP addressing to web servers on public subnet
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -226,11 +226,11 @@ Knowledge Area: Virtual Private Cloud (VPC)
 
 ###### 12. What two statements accurately describe Amazon VPC architecture?
 
-- 1. Elastic Load Balancer (ELB) cannot span multiple availability zones
-- 2. VPC does not support DMVPN connection
-- 3. VPC subnet cannot span multiple availability zones
-- 4. VPC cannot span multiple regions
-- 5. Flow logs are not supported within a VPC
+- [ ] A. Elastic Load Balancer (ELB) cannot span multiple availability zones
+- [ ] B. VPC does not support DMVPN connection
+- [ ] C. VPC subnet cannot span multiple availability zones
+- [ ] 4. VPC cannot span multiple regions
+- [ ] 5. Flow logs are not supported within a VPC
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -247,10 +247,10 @@ Knowledge Area: Virtual Private Cloud (VPC)
 
 ###### 13. What feature enables CloudWatch to manage capacity dynamically for EC2 instances?
 
-- 1. replication lag
-- 2. Auto-Scaling
-- 3. Elastic Load Balancer
-- 4. vertical scaling
+- [ ] A. replication lag
+- [ ] B. Auto-Scaling
+- [ ] C. Elastic Load Balancer
+- [ ] 4. vertical scaling
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -267,11 +267,11 @@ Knowledge Area: Monitoring Services
 
 ###### 14. What authentication method provides Federated Single Sign-On (SSO) for cloud applications?
 
-- 1. ADS
-- 2. ISE
-- 3. RADIUS
-- 4. TACACS
-- 5. SAML
+- [ ] A. ADS
+- [ ] B. ISE
+- [ ] C. RADIUS
+- [ ] 4. TACACS
+- [ ] 5. SAML
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -288,12 +288,12 @@ Knowledge Area: Security Architecture
 
 ###### 15. What method detects when to replace an EC2 instance that is assigned to an Auto-Scaling group?
 
-- 1. health check
-- 2. load balancing algorithm
-- 3. EC2 health check
-- 4. not currently supported
-- 5. dynamic path detection
-- 6. Auto-Scaling
+- [ ] A. health check
+- [ ] B. load balancing algorithm
+- [ ] C. EC2 health check
+- [ ] 4. not currently supported
+- [ ] 5. dynamic path detection
+- [ ] 6. Auto-Scaling
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -310,11 +310,11 @@ Knowledge Area: EC2 Compute
 
 ###### 16. What two resource tags are supported for an EC2 instance?
 
-- 1. VPC endpoint
-- 2. EIP
-- 3. network interface
-- 4. security group
-- 5. Flow Log
+- [ ] A. VPC endpoint
+- [ ] B. EIP
+- [ ] C. network interface
+- [ ] 4. security group
+- [ ] 5. Flow Log
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -331,10 +331,10 @@ Knowledge Area: EC2 Compute
 
 ###### 17. How is a volume selected (identified) when making an EBS Snapshot?
 
-- 1. account id
-- 2. volume id
-- 3. tag
-- 4. ARN
+- [ ] A. account id
+- [ ] B. volume id
+- [ ] C. tag
+- [ ] 4. ARN
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -351,11 +351,11 @@ Knowledge Area: Deployment
 
 ###### 18. What two features provide an encrypted (VPN) connection from VPC to an enterprise data center?
 
-- 1. Internet gateway
-- 2. Amazon RDS
-- 3. Virtual private gateway
-- 4. CSR 1000V router
-- 5. NAT gateway
+- [ ] A. Internet gateway
+- [ ] B. Amazon RDS
+- [ ] C. Virtual private gateway
+- [ ] 4. CSR 1000V router
+- [ ] 5. NAT gateway
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -372,11 +372,11 @@ Knowledge Area: Virtual Private Cloud (VPC)
 
 ###### 19. What are two advantages of cross-region replication of an S3 bucket?
 
-- 1. cost
-- 2. security compliance
-- 3. scalability
-- 4. Beanstalk support
-- 5. minimize latency
+- [ ] A. cost
+- [ ] B. security compliance
+- [ ] C. scalability
+- [ ] 4. Beanstalk support
+- [ ] 5. minimize latency
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -393,11 +393,11 @@ Knowledge Area: Storage Services
 
 ###### 20. What consistency model is the default used by DynamoDB?
 
-- 1. strongly consistent
-- 2. eventually consistent
-- 3. no default model
-- 4. casual consistency
-- 5. sequential consistency
+- [ ] A. strongly consistent
+- [ ] B. eventually consistent
+- [ ] C. no default model
+- [ ] 4. casual consistency
+- [ ] 5. sequential consistency
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -414,11 +414,11 @@ Knowledge Area: Database Services
 
 ###### 21. What features are required to prevent users from bypassing AWS CloudFront security? (Select three)
 
-- 1. Bastion host
-- 2. signed URL
-- 3. IP whitelist
-- 4. signed cookies
-- 5. origin access identity (OAI)
+- [ ] A. Bastion host
+- [ ] B. signed URL
+- [ ] C. IP whitelist
+- [ ] 4. signed cookies
+- [ ] 5. origin access identity (OAI)
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -435,11 +435,11 @@ Knowledge Area: Security Architecture
 
 ###### 22. What are the advantages of NAT gateway over NAT instance? (Select two)
 
-- 1. NAT gateway requires a single EC2 instance
-- 2. NAT gateway is scalable
-- 3. NAT gateway translates faster
-- 4. NAT gateways is a managed service
-- 5. NAT gateway is Linux-based
+- [ ] A. NAT gateway requires a single EC2 instance
+- [ ] B. NAT gateway is scalable
+- [ ] C. NAT gateway translates faster
+- [ ] 4. NAT gateways is a managed service
+- [ ] 5. NAT gateway is Linux-based
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -456,10 +456,10 @@ Knowledge Area: Virtual Private Cloud (VPC)
 
 ###### 23. What two fault tolerant features does Amazon RDS support?
 
-- 1. copy snapshot to a different region
-- 2. create read replica to a different region
-- 3. copy unencrypted read-replica only
-- 4. copy read/write replica and snapshot
+- [ ] A. copy snapshot to a different region
+- [ ] B. create read replica to a different region
+- [ ] C. copy unencrypted read-replica only
+- [ ] 4. copy read/write replica and snapshot
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -476,11 +476,11 @@ Knowledge Area: Database Services
 
 ###### 24. What two features describe an Application Load Balancer (ALB)?
 
-- 1. dynamic port mapping
-- 2. SSL listener
-- 3. layer 7 load balancer
-- 4. backend server authentication
-- 5. multi-region forwarding
+- [ ] A. dynamic port mapping
+- [ ] B. SSL listener
+- [ ] C. layer 7 load balancer
+- [ ] 4. backend server authentication
+- [ ] 5. multi-region forwarding
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -497,11 +497,11 @@ Knowledge Area: Fault Tolerant Systems
 
 ###### 25. You have configured a security group to allow ICMP, SSH and RDP inbound and assigned the security group to all instances in a subnet. There is no access to any Linux-based or Windows-based instances and you cannot Ping any instances. The network ACL for the subnet is configured to allow all inbound traffic to the subnet. What is the most probable cause?
 
-- 1. on-premises firewall rules
-- 2. security group and network ACL outbound rules
-- 3. network ACL outbound rules
-- 4. security group outbound rules
-- 5. Bastion host required
+- [ ] A. on-premises firewall rules
+- [ ] B. security group and network ACL outbound rules
+- [ ] C. network ACL outbound rules
+- [ ] 4. security group outbound rules
+- [ ] 5. Bastion host required
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -518,10 +518,10 @@ Knowledge Area: Security Architecture
 
 ###### 26. You have been asked to setup a VPC endpoint connection between VPC and S3 buckets for storing backups and snapshots. What AWS components are currently required when configuring a VPC endpoint?
 
-- 1. Internet gateway
-- 2. NAT instance
-- 3. Elastic IP
-- 4. private IP address
+- [ ] A. Internet gateway
+- [ ] B. NAT instance
+- [ ] C. Elastic IP
+- [ ] 4. private IP address
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -538,11 +538,11 @@ Knowledge Area: Virtual Private Cloud (VPC)
 
 ###### 27. What three attributes are used to define a launch configuration template for an Auto-Scaling group?
 
-- 1. instance type
-- 2. private IP address
-- 3. Elastic IP
-- 4. security group
-- 5. AMI
+- [ ] A. instance type
+- [ ] B. private IP address
+- [ ] C. Elastic IP
+- [ ] 4. security group
+- [ ] 5. AMI
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -559,11 +559,11 @@ Knowledge Area: EC2 Compute
 
 ###### 28. You have enabled Amazon RDS database services in VPC1 for an application that has public web servers in VPC2. How do you connect the web servers to the RDS database instance so they can communicate considering the VPC's are in the same region?
 
-- 1. VPC endpoints
-- 2. VPN gateway
-- 3. path-based routing
-- 4. VPC peering
-- 5. AWS Network Load Balancer
+- [ ] A. VPC endpoints
+- [ ] B. VPN gateway
+- [ ] C. path-based routing
+- [ ] 4. VPC peering
+- [ ] 5. AWS Network Load Balancer
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -580,10 +580,10 @@ Knowledge Area: Virtual Private Cloud (VPC)
 
 ###### 29. What two methods are recommended by AWS for protecting EBS data at rest?
 
-- 1. replication
-- 2. snapshots
-- 3. encryption
-- 4. VPN
+- [ ] A. replication
+- [ ] B. snapshots
+- [ ] C. encryption
+- [ ] 4. VPN
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -600,10 +600,10 @@ Knowledge Area: Fault Tolerant Systems
 
 ###### 30. What security problem is solved by using Cross-Origin Resource Sharing (CORS)?
 
-- 1. enable HTTP requests from within scripts to a different domain
-- 2. enable sharing of web-based files between different buckets
-- 3. provide security for third party objects within AWS
-- 4. permits sharing objects between AWS services
+- [ ] A. enable HTTP requests from within scripts to a different domain
+- [ ] B. enable sharing of web-based files between different buckets
+- [ ] C. provide security for third party objects within AWS
+- [ ] 4. permits sharing objects between AWS services
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -620,11 +620,11 @@ Knowledge Area: Storage Services
 
 ###### 31. What two features are enabled with S3 services?
 
-- 1. store objects of any size
-- 2. dynamic web content
-- 3. supports Provisioned IOPS
-- 4. store virtually unlimited amounts of data
-- 5. bucket names are globally unique
+- [ ] A. store objects of any size
+- [ ] B. dynamic web content
+- [ ] C. supports Provisioned IOPS
+- [ ] 4. store virtually unlimited amounts of data
+- [ ] 5. bucket names are globally unique
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -641,11 +641,11 @@ Knowledge Area: Storage Services
 
 ###### 32. What is the purpose of a local route within a VPC route table?
 
-- 1. local route is derived from the default VPC CIDR block 10.0.0.0/16
-- 2. communicate between instances within the same subnet or different subnets
-- 3. used to communicate between instances within the same subnet
-- 4. default route for communicating between private and public subnets
-- 5. only installed in the main route table
+- [ ] A. local route is derived from the default VPC CIDR block 10.0.0.0/16
+- [ ] B. communicate between instances within the same subnet or different subnets
+- [ ] C. used to communicate between instances within the same subnet
+- [ ] 4. default route for communicating between private and public subnets
+- [ ] 5. only installed in the main route table
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -662,9 +662,9 @@ Knowledge Area: Virtual Private Cloud (VPC)
 
 ###### 33. What feature is supported when attaching or detaching an EBS volume from an EC2 instance?
 
-- 1. EBS volume can be attached and detached to an EC2 instance in the same region
-- 2. EBS volume can be attached and detached to an EC2 instance that is cross-region
-- 3. EBS volume can only be copied and attached to an EC2 instance that is cross-region
+- [ ] A. EBS volume can be attached and detached to an EC2 instance in the same region
+- [ ] B. EBS volume can be attached and detached to an EC2 instance that is cross-region
+- [ ] C. EBS volume can only be copied and attached to an EC2 instance that is cross-region
 - 4. EBS volume can only be attached and detached to an EC2 instance in the same Availability Zone
 
 <details><summary><b>Answer</b></summary>
@@ -682,10 +682,10 @@ Knowledge Area: EC2 Compute
 
 ###### 34. What Amazon AWS service supports real-time processing of data stream from multiple consumers and replay of records?
 
-- 1. DynamoDB
-- 2. EMR
-- 3. Kinesis data streams
-- 4. SQS
+- [ ] A. DynamoDB
+- [ ] B. EMR
+- [ ] C. Kinesis data streams
+- [ ] 4. SQS
 - 5. RedShift
 
 <details><summary><b>Answer</b></summary>
@@ -703,10 +703,10 @@ Knowledge Area: Deployment
 
 ###### 35. What is the fastest and easiest method for migrating an on-premises VMware virtual machine to the AWS cloud?
 
-- 1. Amazon Marketplace
-- 2. AWS Server Migration Service
-- 3. AWS Storage Gateway
-- 4. EC2 Import/Export
+- [ ] A. Amazon Marketplace
+- [ ] B. AWS Server Migration Service
+- [ ] C. AWS Storage Gateway
+- [ ] 4. EC2 Import/Export
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -723,10 +723,10 @@ Knowledge Area: Deployment
 
 ###### 36. What class of EC2 instance type is recommended for database servers?
 
-- 1. memory optimized
-- 2. compute optimized
-- 3. storage optimized
-- 4. general purpose optimized
+- [ ] A. memory optimized
+- [ ] B. compute optimized
+- [ ] C. storage optimized
+- [ ] 4. general purpose optimized
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -743,11 +743,11 @@ Knowledge Area: EC2 Compute
 
 ###### 37. What encryption support is available for tenants that are deploying AWS DynamoDB?
 
-- 1. server-side encryption
-- 2. client-side encryption
-- 3. client-side and server-side encryption
-- 4. encryption not supported
-- 5. block level encryption
+- [ ] A. server-side encryption
+- [ ] B. client-side encryption
+- [ ] C. client-side and server-side encryption
+- [ ] 4. encryption not supported
+- [ ] 5. block level encryption
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -764,11 +764,11 @@ Knowledge Area: Database Services
 
 ###### 38. What are two characteristics of an Amazon security group?
 
-- 1. instance level packet filtering
-- 2. deny rules only
-- 3. permit rules only
-- 4. subnet level packet filtering
-- 5. inbound only
+- [ ] A. instance level packet filtering
+- [ ] B. deny rules only
+- [ ] C. permit rules only
+- [ ] 4. subnet level packet filtering
+- [ ] 5. inbound only
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -785,10 +785,10 @@ Knowledge Area: Virtual Private Cloud (VPC)
 
 ###### 39. How is Route 53 configured for Warm Standby fault tolerance? (Select two)
 
-- 1. automated health checks
-- 2. path-based routing
-- 3. failover records
-- 4. Alias records
+- [ ] A. automated health checks
+- [ ] B. path-based routing
+- [ ] C. failover records
+- [ ] 4. Alias records
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -805,11 +805,11 @@ Knowledge Area: Fault Tolerant Systems
 
 ###### 40. What is the difference between Stream-based and AWS Services when enabling Lambda?
 
-- 1. streams maintains event source mapping in Lambda
-- 2. streams maintains event source mapping in event source
-- 3. streams maintains event source mapping in EC2 instance
-- 4. streams maintains event source mapping in notification
-- 5. streams maintains event source mapping in API
+- [ ] A. streams maintains event source mapping in Lambda
+- [ ] B. streams maintains event source mapping in event source
+- [ ] C. streams maintains event source mapping in EC2 instance
+- [ ] 4. streams maintains event source mapping in notification
+- [ ] 5. streams maintains event source mapping in API
 
 <details><summary><b>Answer</b></summary>
 <p>
